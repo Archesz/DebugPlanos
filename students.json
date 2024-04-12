@@ -1,0 +1,2393 @@
+{
+  "--NrHzk1lVw-T3PooAfC_": {
+    "Curso": "Ciências Contábeis",
+    "Simulados": {
+      "Colmeias_Inicial": {
+        "Acertos": {
+          "Biologia": 2,
+          "Filosofia": 0,
+          "Física": 2,
+          "Geografia": 3,
+          "História": 3,
+          "Literatura": 0,
+          "Matemática": 3,
+          "Português": 3,
+          "Química": 2,
+          "Sociologia": 0,
+          "Total": 18
+        },
+        "Erros": [
+          "Morfologia",
+          "Concordância Verbal",
+          "Morfologia",
+          "Substantivo, Adjetivo, Numeral e Artigo",
+          "Eletricidade",
+          "Gráficos",
+          "Medidas de Centralidade e Dispersão",
+          "Tabela",
+          "Porcentagem",
+          "Matemática Financeira",
+          "Equilíbrio Iônico",
+          "Biociclos e Biomas",
+          "Ecologia"
+        ],
+        "Gabarito": [
+          null,
+          "D",
+          "D",
+          "A",
+          "C",
+          "D",
+          "D",
+          "B",
+          "C",
+          "E",
+          "B",
+          "B",
+          "C",
+          "C",
+          "B",
+          "E",
+          "C",
+          "C",
+          "B",
+          "B",
+          "A",
+          "A",
+          "C",
+          "C",
+          "C",
+          "D"
+        ]
+      }
+    },
+    "Turma": "Laudelina",
+    "ano": 2024,
+    "cep": "13030730",
+    "cpf": "47180957860",
+    "curso": "Pré-Vestibular",
+    "desempenho": {
+      "Biologia": {
+        "Bioquímica": {
+          "Bioquímica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Carboidratos e Lipídios": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Níveis de Organização": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Proteínas e Enzimas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sais Minerais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ácidos Nucleicos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Citologia": {
+          "Ciclo Celular e Mitose": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Citologia": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Citoplasma, Organelas e Estruturas celulares": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fermentação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fotossíntese e Quimiossíntese": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Meiose e Gametogênese": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Respiração Celular aeróbica e anaeróbica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Síntese de Proteinas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tipos de Células e Membrana Plasmática": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Transporte em Membrana": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Ecologia": {
+          "Biociclos e Biomas": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Ciclos Biogeoquímicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Desequilíbrios Ecológicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Dinâmica Populacional, Cadeias alimentares e Pirâmide Ecológica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ecologia": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Introdução à Ecologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Relações Ecológicas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sucessão Ecológica e Zonação": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Embriologia": {
+          "Destino dos folhetos embrionários e anexos embrionários": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Embriogênese do anfioxo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Embriologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tipos de gêmeos e classificação dos animais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tipos de ovos e segmentações": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Fisiologia": {
+          "Fisiologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Circulatório Humano": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Circulatório dos Vertebrados": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Digestório": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Endócrino": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Excretor": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Imunológico e Linfático": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Nervoso": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Reprodutor": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Respiratório": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Órgãos dos Sentidos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Genética": {
+          "Conceitos de Genética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Expressividade e Interação Gênica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Genética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Genética do sexo e sistema de determinação de sexo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Heredogramas e Cruzamento-Teste": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Linkage": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mutações e Engenharia Genética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pleiotropia e Genética de Populações": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Primeira lei de Mendel": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Segunda Lei de Mendel": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema ABO e Eritoblastose Fetal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema Rh, Sistema MN e Efeito Bombaim": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Histologia Humana": {
+          "Histologia Humana": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecido Epitelial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecido Muscular": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecido Nervoso": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecidos Conectivos Cartilaginoso e Ósseo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecidos Conectivos Hematopoiético e Sanguíneo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Tecidos Conectivos e Adiposo": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Origem da Vida e Evolução": {
+          "Características dos seres vivos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Especiação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Evolução": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Origem da Vida": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Origem da Vida e Evolução": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Seres Vivos": {
+          "Anel de Malpighi, transpiração e estômatos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Briófitas e pteridófitas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ciclos reprodutivos no Reino Plantae": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Classificação dos Seres Vivos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Evolução das plantas, tipos de polinização e": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fisiologia comparada e evolução dos seres vivos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fitocromos e classificação complementar de plantas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fitormônios": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Gimnospermas e angiospermas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Histologia vegetal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mamíferos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Métodos contraceptivos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Platelmintos e nematelmintos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Poríferos e cnidários": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Protocordados e vertebrados": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Reino Fungi": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Reino Protista e Protozooses": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Seres Vivos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Taxonomia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Verminoses": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Virus e Viroses": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "morfologia externa de plantas": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "Filosofia": {
+        "Epistemologia": {
+          "Epistemologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Francis Bacon e David Hume": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "John Locke e Empirismo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Kant": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "René Descartes e Racionalismo": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Filosofia Antiga": {
+          "Aristóteles": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Filosofia Antiga": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mito e Filosofia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Período Helenista": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Platão": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pré-Socráticos e Sofistas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sócrates": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Filosofia Medieval": {
+          "Filosofia Medieval": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Moral e Ética": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Filosofia Moderna": {
+          "Escola de Frankfurt": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Espinoza e Pascal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fenomenologia e Heidegger": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Filosofia Moderna": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Freud": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hannah Arendt": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hegel e a Dialética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "John Rawls": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Jürgen Habermas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Michel Foucault": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Nietzsche": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Russel e Wittgenstein": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sartre e Existencialismo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Schopenhauer e Kierkegaard": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Utilitarismo e Estética": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Filosofia Política": {
+          "Contratualistas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Filosofia Política": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Maquiavel, Adam Smith e Montesquieu": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Sociologia": {
+          "Autores Clássicos": {
+            "Karl Marx": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Max Weber": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Positivismo e Auguste Comte": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Surgimento da Sociologia e Socialização": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Émile Durkheim": {
+              "Acertos": 0,
+              "Erros": 0
+            }
+          },
+          "Autores Complementares": {
+            "Simone de Beavouir": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Zigmunt Bauman": {
+              "Acertos": 0,
+              "Erros": 0
+            }
+          },
+          "Cultura e Sociedade": {
+            "Adorno, Horkheimer e Walter Benjamin": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Antropologia": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Cultura e Sociedade": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Norbert Elias": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Pierre Bordieu": {
+              "Acertos": 0,
+              "Erros": 0
+            }
+          },
+          "Política e Sociedade": {
+            "Cidadania, Tipos de Direitos e Estratificação Social": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Política e Sociedade": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Tipos de Democracia, Partidos Políticos": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Tipos de Eleição": {
+              "Acertos": 0,
+              "Erros": 0
+            }
+          },
+          "Sociologia Brasileira": {
+            "Paulo Freire e Teorias Educacionais": {
+              "Acertos": 0,
+              "Erros": 0
+            },
+            "Sociologia no Brasil": {
+              "Acertos": 0,
+              "Erros": 0
+            }
+          }
+        }
+      },
+      "Física": {
+        "Eletricidade": {
+          "Campo elétrico, força elétrica e campo elétrico uniforme": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Capacitadores": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Carga total, processos de eletrização e lei de Coulomb": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Corrente elétrica e leis de Ohm": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Curto-circuito, potência elétrica e receptores elétricos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Eletricidade": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Força Magnética e Indução Eletromagnética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geradores elétricos e resistores elétricos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Leis de Kirchhoff": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Magnetismo e Fontes de Campo Magnético": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Medidores elétricos, ponte de Wheatstone e ponte de fio": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Potencial elétrico e trabalho da força elétrica": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Mecânica": {
+          "Cinemática vetorial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Equilíbrio de ponto material e equilíbrio de corpos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Força de atrito": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Força em trajetórias curvilíneas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Gravitação universal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hidrodinâmica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hidrostática": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Lançamento horizontal e lançamento oblíquo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Lançamento vertical e queda livre": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Leis de Newton": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mecânica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Movimento circular uniforme": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Movimento harmônico simples (MHS)": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Movimento uniforme": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Movimento uniformemente variado": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Partículas em movimento": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Principais forças da dinâmica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Trabalho e energia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Vetores em dinâmica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "extensos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Ondulatória": {
+          "Acústica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Difração e interferência de ondas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Efeito Doppler, batimento, polarização e ressonância": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Equação de onda unidimensional, velocidade e": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Estrutura e classificações de onda": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Experimento de Young e refração de ondas na praia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ondas estacionárias": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ondulatória": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Reflexão refração de ondas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "intensidade de onda": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Termologia": {
+          "Calorimetria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Dilatometria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Gases perfeitos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Leis da termodinâmica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Máquinas térmicas e propagação de calor": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Termologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Termometria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Unidades de medida e conversões": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Óptica": {
+          "Conceitos gerais em óptica geométrica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Lentes esféricas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Reflexão e imagem em espelhos esféricos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Reflexão e imagem em espelhos planos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Refração da luz": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Óptica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Óptica da visão e instrumentos ópticos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "Geografia": {
+        "Geografia Física": {
+          "Biogeografia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Cartografia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Climatologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geografia Física": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geomorfologia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hidrografia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mineração": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Solos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Geografia Mundo": {
+          "América Latina": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Estados Unidos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geografia Mundo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geopolítica Contemporânea": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Oriente Médio": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "África": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ásia": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Indústria e Economia": {
+          "A Velha e a Nova Ordem Mundial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Blocos Econômicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Indústria e Economia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Modelos Econômicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Primeira e Segunda Revoluções Industriais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Terceira e Quarta Revoluções Industriais": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "População em Geografia": {
+          "Conceitos em Geografia e Introdução à Demografia": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Pirâmides Etárias, Transição Demográfica e": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "População em Geografia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Teorias Demográficas": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Sociedade e Espaço": {
+          "Energia": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Estrutura Agrária e Pecuária no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fatores Naturais e Uso da Terra no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Industrialização Brasileira": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Mapa do Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Migrações": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Problemas Ambientais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sociedade e Espaço": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Transportes": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Urbanização": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Uso da Terra e Sistemas Agrícolas": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "História": {
+        "História do Brasil": {
+          "Brasil Contemporâneo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Café Filho e Juscelino Kubitschek": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Colonização do Brasil e Economia Açucareira": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Conflitos Sociais e Revoltas na República Velha": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Eurico Gaspar Dutra e Segundo Governo Vargas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Expansão Territorial no Brasil Colônia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Governo Vargas": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "História do Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Jânio Quadros e João Goulart": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Periodo Joanino": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Período Regencial no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Primeiro Reinado no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Regime Militar": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "República Velha no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Revoltas Nativistas e Movimentos Emancipacionistas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Segundo Reinado no Brasil": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Idade Antiga": {
+          "Cronologia da História e Mesopotâmia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Egito e Fenícios": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Grécia Antiga": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Idade Antiga": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Persas e Hebreus": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Roma Antiga": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Idade Contemporânea": {
+          "Era Napoleônica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Idade Contemporânea": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Imperialismo Norte-Americano": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Independência da América Espanhola": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Mundo Pós Segunda Guerra": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Populismo na América Latina e América Latina no": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Primeira Guerra Mundial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Revolução Mexicana": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Revolução Russa e Regimes Totalitários": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Segunda Guerra Mundial": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Segunda Revolução Industrial e Neocolonialismo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Século XX": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Unificação Italiana e Unificação Alemã": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Idade Moderna": {
+          "América Espanhola e Revoluções Inglesas do Século XVII": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Civilizações Pré-Colombianas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Colonização e Independência das 13 Colônias": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Expansão Marítimo Comercial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Expansão Territorial dos EUA e EUA no Século XIX": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Formação dos Estados Nacionais Modernos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Idade Moderna": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Reforma Protestante": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Renascimento Artístico e Cultural": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Revolução Francesa": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Revolução Industrial e Iluminismo": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Idade Média": {
+          "Alta Idade Média e Baixa Idade Média": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Idade Média": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Imperios Medievais": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "Matemática": {
+        "Conjuntos e Funções": {
+          "Conjuntos numéricos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Composta": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Exponencial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Inversa": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Logarítmica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Modular": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função do 1º Grau": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Função do 2º Grau": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Funções": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Teoria dos Conjuntos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Estatística e Combinatória": {
+          "Combinação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Estatística e Combinatória": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Medidas de Centralidade e Dispersão": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Permutação e Arranjo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Principio Fundamental da Contagem": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Probabilidade": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Probabilidade Condicional": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Geometria": {
+          "Cilindro e Cones": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Circulo e Circunferência": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Cônicas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Esferas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geometria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Geometria Espacial": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Introdução à Geometria Analítica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Introdução à Geometria Plana": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Poliedros": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Polígonos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pontos Notáveis de Triângulos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Prismas, Paralelepípedos e Cubos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Projeção Ortogonal e Planificação de Sólidos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Quadriláteros Notáveis": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Retas Paralelas e Transversais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Teorema de Tales": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Troncos de Cone, Pirâmides e Semelhança de Sólidos": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Matemática Básica": {
+          "Adição e Subtração": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Conjuntos Numéricos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Equação do Primeiro Grau": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Equação do Segundo Grau": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Fatoração de Expressões Algébricas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Frações": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Grandezas Diretamente Proporcionais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Grandezas Inversamente Proporcionais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Juros Compostos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Juros Simples": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Matemática Básica": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Multiplicação e Divisão": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Máximo Dividor Comum (MDC)": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Múltiplos e MMC": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Números Primos, Fatoração e Divisores": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Porcentagem": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Potenciação": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Potência de 10 e Notação Científica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Produtos Notáveis": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Racionalização de Denominadores": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Radiciação": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Razão e Proporção": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Regra de 3 Simples e Composta": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistema de Numeração decimal": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Outros": {
+          "Matrizes": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Números Complexos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Polinômios": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Sequências": {
+          "Introdução à Sequências": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Progressão Aritmética": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Progressão Geométrica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sequências": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Sistemas Lineares": {
+          "Escalonamento e Regra de Cramer": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Introdução à Sistemas Lineares": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sistemas Lineares": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Trigonometria": {
+          "Circulo Trigonométrico": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Função Trigonométrica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Introdução à Trigonometria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Transformações Trigonométricas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Trigonometria": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "Português": {
+        "Morfologia": {
+          "Estrutura e Formação de Palavras": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Morfologia": {
+            "Acertos": 6,
+            "Erros": 6
+          },
+          "Palavra Denotativa": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pronomes": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Substantivo, Adjetivo, Numeral e Artigo": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Verbos": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Vozes Verbais, Advérbio, Preposição, Interjeição": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Semântica": {
+          "Figuras de Linguagem": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Funções da Linguagem": {
+            "Acertos": 6,
+            "Erros": 0
+          },
+          "Gêneros e Tipos Textuais": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Semântica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Variação Linguística": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Vícios da Linguagem": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Sintaxe": {
+          "Acentuação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Adjunto Adnominal, Complemento Nominal e Vocativo": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Aposto e Agenda da Passiva": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Conceitos, Orações e Sujeitos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Concordância Nominal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Concordância Verbal": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Crase": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Orações Coordenadas e Orações Subordinadas": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Ortografia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pontuação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Predicado, Predicativo e Adjunto Adverbial": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Regência Nominal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Regência Verbal": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Sintaxe": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      },
+      "Química": {
+        "Físico-Química": {
+          "Cinética Química": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Cálculo de Varição de Entalpia": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Eletrólise": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Entropia e Energia de Gibbs": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Equilíbrio Iônico": {
+            "Acertos": 0,
+            "Erros": 3
+          },
+          "Equilíbrio Iônico da Água e Hidrólise Salina": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Físico-Química": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Gráficos e Conceitos de Termoquimica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Kc e Kp em Equilíbrio Químico": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Pilhas e Bateria": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Solução Tampão e Kps": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Química Ambiental": {
+          "Bioquímica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Química Ambiental": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Recursos Orgânicas": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        },
+        "Química Orgânica": {
+          "Acidez e basicidade de compostos orgânicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Aldeído, éster, sal orgânico e anidrido": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Classificação de Cadeias Carbônicas": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Classificação e Hibridização do Carbono": {
+            "Acertos": 3,
+            "Erros": 0
+          },
+          "Haletos orgânicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hidrocarbonetos Alifáticos e Cíclicos e Regra Geral de Nomenclatura": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Hidrocarbonetos e Nomenclatura de Compostos Orgânicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Isomeria geométrica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Isomeria plana": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Isomeria óptica": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Polímeros de adição": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Polímeros de condensação": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Postulados de Kekulê": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Propriedades físicas dos compostos orgânicos": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Química Orgânica": {
+            "Acertos": 6,
+            "Erros": 0
+          },
+          "Reações orgânicas de adição": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Reações orgânicas de substituição": {
+            "Acertos": 0,
+            "Erros": 0
+          },
+          "Éter, nitrila, ácido sulfônico, tiocomposto, amina e amida": {
+            "Acertos": 0,
+            "Erros": 0
+          }
+        }
+      }
+    },
+    "disciplinas": {
+      "Biologia": {
+        "Bioquímica": {
+          "Bioquímica": false,
+          "Carboidratos e Lipídios": false,
+          "Níveis de Organização": false,
+          "Proteínas e Enzimas": false,
+          "Sais Minerais": false,
+          "Ácidos Nucleicos": false
+        },
+        "Citologia": {
+          "Ciclo Celular e Mitose": false,
+          "Citologia": false,
+          "Citoplasma, Organelas e Estruturas celulares": false,
+          "Fermentação": false,
+          "Fotossíntese e Quimiossíntese": false,
+          "Meiose e Gametogênese": false,
+          "Respiração Celular aeróbica e anaeróbica": false,
+          "Síntese de Proteinas": false,
+          "Tipos de Células e Membrana Plasmática": false,
+          "Transporte em Membrana": false
+        },
+        "Ecologia": {
+          "Biociclos e Biomas": false,
+          "Ciclos Biogeoquímicos": false,
+          "Desequilíbrios Ecológicos": false,
+          "Dinâmica Populacional, Cadeias alimentares e Pirâmide Ecológica": false,
+          "Ecologia": false,
+          "Introdução à Ecologia": false,
+          "Relações Ecológicas": false,
+          "Sucessão Ecológica e Zonação": false
+        },
+        "Embriologia": {
+          "Destino dos folhetos embrionários e anexos embrionários": false,
+          "Embriogênese do anfioxo": false,
+          "Embriologia": false,
+          "Tipos de gêmeos e classificação dos animais": false,
+          "Tipos de ovos e segmentações": false
+        },
+        "Fisiologia": {
+          "Fisiologia": false,
+          "Sistema Circulatório Humano": false,
+          "Sistema Circulatório dos Vertebrados": false,
+          "Sistema Digestório": false,
+          "Sistema Endócrino": false,
+          "Sistema Excretor": false,
+          "Sistema Imunológico e Linfático": false,
+          "Sistema Nervoso": false,
+          "Sistema Reprodutor": false,
+          "Sistema Respiratório": false,
+          "Órgãos dos Sentidos": false
+        },
+        "Genética": {
+          "Conceitos de Genética": false,
+          "Expressividade e Interação Gênica": false,
+          "Genética": false,
+          "Genética do sexo e sistema de determinação de sexo": false,
+          "Heredogramas e Cruzamento-Teste": false,
+          "Linkage": false,
+          "Mutações e Engenharia Genética": false,
+          "Pleiotropia e Genética de Populações": false,
+          "Primeira lei de Mendel": false,
+          "Segunda Lei de Mendel": false,
+          "Sistema ABO e Eritoblastose Fetal": false,
+          "Sistema Rh, Sistema MN e Efeito Bombaim": false
+        },
+        "Histologia Humana": {
+          "Histologia Humana": false,
+          "Tecido Epitelial": false,
+          "Tecido Muscular": false,
+          "Tecido Nervoso": false,
+          "Tecidos Conectivos Cartilaginoso e Ósseo": false,
+          "Tecidos Conectivos Hematopoiético e Sanguíneo": false,
+          "Tecidos Conectivos e Adiposo": false
+        },
+        "Origem da Vida e Evolução": {
+          "Características dos seres vivos": false,
+          "Especiação": false,
+          "Evolução": false,
+          "Origem da Vida": false,
+          "Origem da Vida e Evolução": false
+        },
+        "Seres Vivos": {
+          "Anel de Malpighi, transpiração e estômatos": false,
+          "Briófitas e pteridófitas": false,
+          "Ciclos reprodutivos no Reino Plantae": false,
+          "Classificação dos Seres Vivos": false,
+          "Evolução das plantas, tipos de polinização e": false,
+          "Fisiologia comparada e evolução dos seres vivos": false,
+          "Fitocromos e classificação complementar de plantas": false,
+          "Fitormônios": false,
+          "Gimnospermas e angiospermas": false,
+          "Histologia vegetal": false,
+          "Mamíferos": false,
+          "Métodos contraceptivos": false,
+          "Platelmintos e nematelmintos": false,
+          "Poríferos e cnidários": false,
+          "Protocordados e vertebrados": false,
+          "Reino Fungi": false,
+          "Reino Protista e Protozooses": false,
+          "Seres Vivos": false,
+          "Taxonomia": false,
+          "Verminoses": false,
+          "Virus e Viroses": false,
+          "morfologia externa de plantas": false
+        }
+      },
+      "Filosofia": {
+        "Epistemologia": {
+          "Epistemologia": false,
+          "Francis Bacon e David Hume": false,
+          "John Locke e Empirismo": false,
+          "Kant": false,
+          "René Descartes e Racionalismo": false
+        },
+        "Filosofia Antiga": {
+          "Aristóteles": false,
+          "Filosofia Antiga": false,
+          "Mito e Filosofia": false,
+          "Período Helenista": false,
+          "Platão": false,
+          "Pré-Socráticos e Sofistas": false,
+          "Sócrates": false
+        },
+        "Filosofia Medieval": {
+          "Filosofia Medieval": false,
+          "Moral e Ética": false
+        },
+        "Filosofia Moderna": {
+          "Escola de Frankfurt": false,
+          "Espinoza e Pascal": false,
+          "Fenomenologia e Heidegger": false,
+          "Filosofia Moderna": false,
+          "Freud": false,
+          "Hannah Arendt": false,
+          "Hegel e a Dialética": false,
+          "John Rawls": false,
+          "Jürgen Habermas": false,
+          "Michel Foucault": false,
+          "Nietzsche": false,
+          "Russel e Wittgenstein": false,
+          "Sartre e Existencialismo": false,
+          "Schopenhauer e Kierkegaard": false,
+          "Utilitarismo e Estética": false
+        },
+        "Filosofia Política": {
+          "Contratualistas": false,
+          "Filosofia Política": false,
+          "Maquiavel, Adam Smith e Montesquieu": false
+        },
+        "Sociologia": {
+          "Autores Clássicos": {
+            "Karl Marx": false,
+            "Max Weber": false,
+            "Positivismo e Auguste Comte": false,
+            "Surgimento da Sociologia e Socialização": false,
+            "Émile Durkheim": false
+          },
+          "Autores Complementares": {
+            "Simone de Beavouir": false,
+            "Zigmunt Bauman": false
+          },
+          "Cultura e Sociedade": {
+            "Adorno, Horkheimer e Walter Benjamin": false,
+            "Antropologia": false,
+            "Cultura e Sociedade": false,
+            "Norbert Elias": false,
+            "Pierre Bordieu": false
+          },
+          "Política e Sociedade": {
+            "Cidadania, Tipos de Direitos e Estratificação Social": false,
+            "Política e Sociedade": false,
+            "Tipos de Democracia, Partidos Políticos": false,
+            "Tipos de Eleição": false
+          },
+          "Sociologia Brasileira": {
+            "Paulo Freire e Teorias Educacionais": false,
+            "Sociologia no Brasil": false
+          }
+        }
+      },
+      "Física": {
+        "Eletricidade": {
+          "Campo elétrico, força elétrica e campo elétrico uniforme": false,
+          "Capacitadores": false,
+          "Carga total, processos de eletrização e lei de Coulomb": false,
+          "Corrente elétrica e leis de Ohm": false,
+          "Curto-circuito, potência elétrica e receptores elétricos": false,
+          "Eletricidade": false,
+          "Força Magnética e Indução Eletromagnética": false,
+          "Geradores elétricos e resistores elétricos": false,
+          "Leis de Kirchhoff": false,
+          "Magnetismo e Fontes de Campo Magnético": false,
+          "Medidores elétricos, ponte de Wheatstone e ponte de fio": false,
+          "Potencial elétrico e trabalho da força elétrica": false
+        },
+        "Mecânica": {
+          "Cinemática vetorial": false,
+          "Equilíbrio de ponto material e equilíbrio de corpos": false,
+          "Força de atrito": false,
+          "Força em trajetórias curvilíneas": false,
+          "Gravitação universal": false,
+          "Hidrodinâmica": false,
+          "Hidrostática": false,
+          "Lançamento horizontal e lançamento oblíquo": false,
+          "Lançamento vertical e queda livre": false,
+          "Leis de Newton": false,
+          "Mecânica": false,
+          "Movimento circular uniforme": false,
+          "Movimento harmônico simples (MHS)": false,
+          "Movimento uniforme": false,
+          "Movimento uniformemente variado": false,
+          "Partículas em movimento": false,
+          "Principais forças da dinâmica": false,
+          "Trabalho e energia": false,
+          "Vetores em dinâmica": false,
+          "extensos": false
+        },
+        "Ondulatória": {
+          "Acústica": false,
+          "Difração e interferência de ondas": false,
+          "Efeito Doppler, batimento, polarização e ressonância": false,
+          "Equação de onda unidimensional, velocidade e": false,
+          "Estrutura e classificações de onda": false,
+          "Experimento de Young e refração de ondas na praia": false,
+          "Ondas estacionárias": false,
+          "Ondulatória": false,
+          "Reflexão refração de ondas": false,
+          "intensidade de onda": false
+        },
+        "Termologia": {
+          "Calorimetria": false,
+          "Dilatometria": false,
+          "Gases perfeitos": false,
+          "Leis da termodinâmica": false,
+          "Máquinas térmicas e propagação de calor": false,
+          "Termologia": false,
+          "Termometria": false,
+          "Unidades de medida e conversões": false
+        },
+        "Óptica": {
+          "Conceitos gerais em óptica geométrica": false,
+          "Lentes esféricas": false,
+          "Reflexão e imagem em espelhos esféricos": false,
+          "Reflexão e imagem em espelhos planos": false,
+          "Refração da luz": false,
+          "Óptica": false,
+          "Óptica da visão e instrumentos ópticos": false
+        }
+      },
+      "Geografia": {
+        "Geografia Física": {
+          "Biogeografia": false,
+          "Cartografia": false,
+          "Climatologia": false,
+          "Geografia Física": false,
+          "Geomorfologia": false,
+          "Hidrografia": false,
+          "Mineração": false,
+          "Solos": false
+        },
+        "Geografia Mundo": {
+          "América Latina": false,
+          "Estados Unidos": false,
+          "Geografia Mundo": false,
+          "Geopolítica Contemporânea": false,
+          "Oriente Médio": false,
+          "África": false,
+          "Ásia": false
+        },
+        "Indústria e Economia": {
+          "A Velha e a Nova Ordem Mundial": false,
+          "Blocos Econômicos": false,
+          "Indústria e Economia": false,
+          "Modelos Econômicos": false,
+          "Primeira e Segunda Revoluções Industriais": false,
+          "Terceira e Quarta Revoluções Industriais": false
+        },
+        "População em Geografia": {
+          "Conceitos em Geografia e Introdução à Demografia": false,
+          "Pirâmides Etárias, Transição Demográfica e": false,
+          "População em Geografia": false,
+          "Teorias Demográficas": false
+        },
+        "Sociedade e Espaço": {
+          "Energia": false,
+          "Estrutura Agrária e Pecuária no Brasil": false,
+          "Fatores Naturais e Uso da Terra no Brasil": false,
+          "Industrialização Brasileira": false,
+          "Mapa do Brasil": false,
+          "Migrações": false,
+          "Problemas Ambientais": false,
+          "Sociedade e Espaço": false,
+          "Transportes": false,
+          "Urbanização": false,
+          "Uso da Terra e Sistemas Agrícolas": false
+        }
+      },
+      "História": {
+        "História do Brasil": {
+          "Brasil Contemporâneo": false,
+          "Café Filho e Juscelino Kubitschek": false,
+          "Colonização do Brasil e Economia Açucareira": false,
+          "Conflitos Sociais e Revoltas na República Velha": false,
+          "Eurico Gaspar Dutra e Segundo Governo Vargas": false,
+          "Expansão Territorial no Brasil Colônia": false,
+          "Governo Vargas": false,
+          "História do Brasil": false,
+          "Jânio Quadros e João Goulart": false,
+          "Periodo Joanino": false,
+          "Período Regencial no Brasil": false,
+          "Primeiro Reinado no Brasil": false,
+          "Regime Militar": false,
+          "República Velha no Brasil": false,
+          "Revoltas Nativistas e Movimentos Emancipacionistas": false,
+          "Segundo Reinado no Brasil": false
+        },
+        "Idade Antiga": {
+          "Cronologia da História e Mesopotâmia": false,
+          "Egito e Fenícios": false,
+          "Grécia Antiga": false,
+          "Idade Antiga": false,
+          "Persas e Hebreus": false,
+          "Roma Antiga": false
+        },
+        "Idade Contemporânea": {
+          "Era Napoleônica": false,
+          "Idade Contemporânea": false,
+          "Imperialismo Norte-Americano": false,
+          "Independência da América Espanhola": false,
+          "Mundo Pós Segunda Guerra": false,
+          "Populismo na América Latina e América Latina no": false,
+          "Primeira Guerra Mundial": false,
+          "Revolução Mexicana": false,
+          "Revolução Russa e Regimes Totalitários": false,
+          "Segunda Guerra Mundial": false,
+          "Segunda Revolução Industrial e Neocolonialismo": false,
+          "Século XX": false,
+          "Unificação Italiana e Unificação Alemã": false
+        },
+        "Idade Moderna": {
+          "América Espanhola e Revoluções Inglesas do Século XVII": false,
+          "Civilizações Pré-Colombianas": false,
+          "Colonização e Independência das 13 Colônias": false,
+          "Expansão Marítimo Comercial": false,
+          "Expansão Territorial dos EUA e EUA no Século XIX": false,
+          "Formação dos Estados Nacionais Modernos": false,
+          "Idade Moderna": false,
+          "Reforma Protestante": false,
+          "Renascimento Artístico e Cultural": false,
+          "Revolução Francesa": false,
+          "Revolução Industrial e Iluminismo": false
+        },
+        "Idade Média": {
+          "Alta Idade Média e Baixa Idade Média": false,
+          "Idade Média": false,
+          "Imperios Medievais": false
+        }
+      },
+      "Matemática": {
+        "Conjuntos e Funções": {
+          "Conjuntos numéricos": false,
+          "Função Composta": false,
+          "Função Exponencial": false,
+          "Função Inversa": false,
+          "Função Logarítmica": false,
+          "Função Modular": false,
+          "Função do 1º Grau": false,
+          "Função do 2º Grau": false,
+          "Funções": false,
+          "Teoria dos Conjuntos": false
+        },
+        "Estatística e Combinatória": {
+          "Combinação": false,
+          "Estatística e Combinatória": false,
+          "Medidas de Centralidade e Dispersão": false,
+          "Permutação e Arranjo": false,
+          "Principio Fundamental da Contagem": false,
+          "Probabilidade": false,
+          "Probabilidade Condicional": false
+        },
+        "Geometria": {
+          "Cilindro e Cones": false,
+          "Circulo e Circunferência": false,
+          "Cônicas": false,
+          "Esferas": false,
+          "Geometria": false,
+          "Geometria Espacial": false,
+          "Introdução à Geometria Analítica": false,
+          "Introdução à Geometria Plana": false,
+          "Poliedros": false,
+          "Polígonos": false,
+          "Pontos Notáveis de Triângulos": false,
+          "Prismas, Paralelepípedos e Cubos": false,
+          "Projeção Ortogonal e Planificação de Sólidos": false,
+          "Quadriláteros Notáveis": false,
+          "Retas Paralelas e Transversais": false,
+          "Teorema de Tales": false,
+          "Troncos de Cone, Pirâmides e Semelhança de Sólidos": false
+        },
+        "Matemática Básica": {
+          "Adição e Subtração": false,
+          "Conjuntos Numéricos": false,
+          "Equação do Primeiro Grau": false,
+          "Equação do Segundo Grau": false,
+          "Fatoração de Expressões Algébricas": false,
+          "Frações": false,
+          "Grandezas Diretamente Proporcionais": false,
+          "Grandezas Inversamente Proporcionais": false,
+          "Juros Compostos": false,
+          "Juros Simples": false,
+          "Matemática Básica": false,
+          "Multiplicação e Divisão": false,
+          "Máximo Dividor Comum (MDC)": false,
+          "Múltiplos e MMC": false,
+          "Números Primos, Fatoração e Divisores": false,
+          "Porcentagem": false,
+          "Potenciação": false,
+          "Potência de 10 e Notação Científica": false,
+          "Produtos Notáveis": false,
+          "Racionalização de Denominadores": false,
+          "Radiciação": false,
+          "Razão e Proporção": false,
+          "Regra de 3 Simples e Composta": false,
+          "Sistema de Numeração decimal": false
+        },
+        "Outros": {
+          "Matrizes": false,
+          "Números Complexos": false,
+          "Polinômios": false
+        },
+        "Sequências": {
+          "Introdução à Sequências": false,
+          "Progressão Aritmética": false,
+          "Progressão Geométrica": false,
+          "Sequências": false
+        },
+        "Sistemas Lineares": {
+          "Escalonamento e Regra de Cramer": false,
+          "Introdução à Sistemas Lineares": false,
+          "Sistemas Lineares": false
+        },
+        "Trigonometria": {
+          "Circulo Trigonométrico": false,
+          "Função Trigonométrica": false,
+          "Introdução à Trigonometria": false,
+          "Transformações Trigonométricas": false,
+          "Trigonometria": false
+        }
+      },
+      "Português": {
+        "Morfologia": {
+          "Estrutura e Formação de Palavras": false,
+          "Morfologia": false,
+          "Palavra Denotativa": false,
+          "Pronomes": false,
+          "Substantivo, Adjetivo, Numeral e Artigo": false,
+          "Verbos": false,
+          "Vozes Verbais, Advérbio, Preposição, Interjeição": false
+        },
+        "Semântica": {
+          "Figuras de Linguagem": false,
+          "Funções da Linguagem": false,
+          "Gêneros e Tipos Textuais": false,
+          "Semântica": false,
+          "Variação Linguística": false,
+          "Vícios da Linguagem": false
+        },
+        "Sintaxe": {
+          "Acentuação": false,
+          "Adjunto Adnominal, Complemento Nominal e Vocativo": false,
+          "Aposto e Agenda da Passiva": false,
+          "Conceitos, Orações e Sujeitos": false,
+          "Concordância Nominal": false,
+          "Concordância Verbal": false,
+          "Crase": false,
+          "Orações Coordenadas e Orações Subordinadas": false,
+          "Ortografia": false,
+          "Pontuação": false,
+          "Predicado, Predicativo e Adjunto Adverbial": false,
+          "Regência Nominal": false,
+          "Regência Verbal": false,
+          "Sintaxe": false
+        }
+      },
+      "Química": {
+        "Físico-Química": {
+          "Cinética Química": false,
+          "Cálculo de Varição de Entalpia": false,
+          "Eletrólise": false,
+          "Entropia e Energia de Gibbs": false,
+          "Equilíbrio Iônico": false,
+          "Equilíbrio Iônico da Água e Hidrólise Salina": false,
+          "Físico-Química": false,
+          "Gráficos e Conceitos de Termoquimica": false,
+          "Kc e Kp em Equilíbrio Químico": false,
+          "Pilhas e Bateria": false,
+          "Solução Tampão e Kps": false
+        },
+        "Química Ambiental": {
+          "Bioquímica": false,
+          "Química Ambiental": false,
+          "Recursos Orgânicas": false
+        },
+        "Química Orgânica": {
+          "Acidez e basicidade de compostos orgânicos": false,
+          "Aldeído, éster, sal orgânico e anidrido": false,
+          "Classificação de Cadeias Carbônicas": false,
+          "Classificação e Hibridização do Carbono": false,
+          "Haletos orgânicos": false,
+          "Hidrocarbonetos Alifáticos e Cíclicos e Regra Geral de Nomenclatura": false,
+          "Hidrocarbonetos e Nomenclatura de Compostos Orgânicos": false,
+          "Isomeria geométrica": false,
+          "Isomeria plana": false,
+          "Isomeria óptica": false,
+          "Polímeros de adição": false,
+          "Polímeros de condensação": false,
+          "Postulados de Kekulê": false,
+          "Propriedades físicas dos compostos orgânicos": false,
+          "Química Orgânica": false,
+          "Reações orgânicas de adição": false,
+          "Reações orgânicas de substituição": false,
+          "Éter, nitrila, ácido sulfônico, tiocomposto, amina e amida": false
+        }
+      }
+    },
+    "email": "simonerochasoares@yahoo.com.br",
+    "etnia": "Pardo/Parda",
+    "frequencia": {
+      "Biologia": 100,
+      "Filosofia": 100,
+      "Física": 100,
+      "Geografia": 100,
+      "Gramática": 100,
+      "História": 100,
+      "Literatura": 100,
+      "Matemática": 100,
+      "Química": 100,
+      "Redação": 100,
+      "Sociologia": 100
+    },
+    "genero": "Outros",
+    "instituicoes": [
+      "Unicamp",
+      "Enem",
+      "USP",
+      "Unesp"
+    ],
+    "nascimento": "2006-11-18",
+    "nome": "Letícia Rocha Soares Martins ",
+    "num_casa": 522,
+    "periodo": "Noturno",
+    "photo": "https://storage.googleapis.com/herbert2024-be557.appspot.com/student_photos/47180957860.jpg",
+    "score": {
+      "Biologia": 0,
+      "Filosofia": 0,
+      "Física": 0,
+      "Geografia": 0,
+      "Gramática": 0,
+      "História": 0,
+      "Literatura": 0,
+      "Matemática": 0,
+      "Química": 0,
+      "Redação": 0,
+      "Sociologia": 0
+    },
+    "telefone": "19993317232"
+  }
+}
