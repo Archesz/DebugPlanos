@@ -1,21 +1,18 @@
 import pandas as pd
+import plotly.express as px
 
-def getInfos(student):
-    print(f"Nome: {student['nome']}")
-    print(f"Turma: {student['Turma']} - {student['periodo']}")
-    print(f"Email: {student['email']}")
-    print(f"Nascimento: {student['nascimento'].replace('-', '/')}")
-    print(f"Curso: {student['Curso']}")
-    
 def analyze(student):
-    key = list(student.keys())[0]
-    student = student[key]
-    getInfos(student)
-    print("-"*50)
     df = identifyNotas(student)
     assuntos = getAssuntos(df)
-    deficts = getDeficts(df)
-    print(deficts)
+    df_deficts = getDeficts(df)
+    fig1, fig2 = getFigs(df)
+
+    return assuntos, df_deficts, fig1, fig2
+
+def getFigs(df):
+    fig1 = px.bar(df, x="Assunto", y="Acertos", color="Disciplina", title="Acertos por conteudo")
+    fig2 = px.bar(df, x="Assunto", y="Erros", color="Disciplina", title="Erros por conteudo")
+    return fig1, fig2
 
 def getPlans(deficts):
 
@@ -45,8 +42,6 @@ def getAssuntos(df):
 
 def getDeficts(df):
     df = df.query("Erros != 0 and Erros > Acertos")
-
-    df["Score"] = df["Erros"] / df["Acertos"]
 
     return df
 
@@ -78,3 +73,10 @@ def identifyNotas(student):
     df["Erros"] = df["Erros"] / 3
 
     return df
+
+def get_student_data(ref, student_id):
+    student_ref = ref.child(student_id)
+    
+    student_data = student_ref.get()
+
+    return student_data
