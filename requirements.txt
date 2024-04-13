@@ -1,0 +1,10 @@
+streamlit
+python-docx
+torch
+torchvision
+Pillow
+requests
+firebase_admin
+datetime
+plotly==5.18.0
+pandas
