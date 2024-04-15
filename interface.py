@@ -79,7 +79,7 @@ if analise:
         erros.columns = ["Assunto", "Quantidade"]
 
         st.write(f"Simulado: {simulado}")
-        st.write(f"Total de acertos: {data['Simulados'][simulado]['Acertos']['Total']}/{len(data['Simulados'][simulado]['Gabarito'])}")
+        st.write(f"Total de acertos: {data['Simulados'][simulado]['Acertos']['Total']}/{len(data['Simulados'][simulado]['Gabarito']) - 1}")
 
         st.divider()
         st.write("Para ajudar a entender, vamos ver alguns gráficos:")
