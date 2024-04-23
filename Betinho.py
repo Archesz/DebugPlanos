@@ -22,7 +22,7 @@ class Betinho():
             try:
                 cred = credentials.Certificate("key.json")
                 firebase_admin.initialize_app(cred, {
-                    'databaseURL': 'https://herbert2024-be557-default-rtdb.firebaseio.com/',
+                    'databaseURL': 'https://crudherbert-default-rtdb.firebaseio.com',
                     'storageBucket': 'gs://herbert2024-be557.appspot.com'
                 }) 
             except:
