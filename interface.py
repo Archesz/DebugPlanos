@@ -33,20 +33,20 @@ if analise:
     identificador = relational.query(f"CPF == '{cpf}'")["ID"].iloc[0]
     # data = pu.get_student_data(betinho.ref, identificador)
     data = pu.get_student_data(dados, identificador)
-    st.subheader("Informações")
-    st.write("Primeiro, pediremos que você confirme se as informações abaixo estão corretas sobre você! Caso encontre algum erro, por favor chamar o Jovi para correção :)")
-
-    col1, col2 = st.columns(2)
-
-    with col1:
-        st.write(f"Nome: {data['nome']}")
-        st.write(f"CPF: {data['cpf']}")   
-        st.write(f"Turma: {data['Turma']} - {data['periodo']}'")
-             
-    with col2:
-        st.write(f"Email: {data['email']}")
-        st.write(f"Celular: {data['telefone']}") 
-        st.write(f"Nascimento: {data['nascimento'].replace('-', '/')}")
+#     st.subheader("Informações")
+#     st.write("Primeiro, pediremos que você confirme se as informações abaixo estão corretas sobre você! Caso encontre algum erro, por favor chamar o Jovi para correção :)")
+# 
+#     col1, col2 = st.columns(2)
+# 
+#     with col1:
+#         st.write(f"Nome: {data['nome']}")
+#         st.write(f"CPF: {data['cpf']}")   
+#         st.write(f"Turma: {data['Turma']} - {data['periodo']}'")
+#              
+#     with col2:
+#         st.write(f"Email: {data['email']}")
+#         st.write(f"Celular: {data['telefone']}") 
+#         st.write(f"Nascimento: {data['nascimento'].replace('-', '/')}")
     
     st.divider()
 
