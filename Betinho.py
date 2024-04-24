@@ -20,13 +20,13 @@ class Betinho():
     def initialize(self):
         if self.mode == "start":
             try:
-                cred = credentials.Certificate("key.json")
+                cred = credentials.Certificate("key2.json")
                 firebase_admin.initialize_app(cred, {
                     'databaseURL': 'https://crudherbert-default-rtdb.firebaseio.com',
                     #'storageBucket': 'gs://herbert2024-be557.appspot.com'
                 }) 
             except:
-                cred = credentials.Certificate("key.json")
+                cred = credentials.Certificate("key2.json")
                 firebase_admin.initialize_app(cred, {
                     'databaseURL': 'https://crudherbert-default-rtdb.firebaseio.com',
                     #'storageBucket': 'gs://herbert2024-be557.appspot.com'
