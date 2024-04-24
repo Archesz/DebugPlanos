@@ -33,6 +33,7 @@ if analise:
     identificador = relational.query(f"CPF == '{cpf}'")["ID"].iloc[0]
     # data = pu.get_student_data(betinho.ref, identificador)
     data = pu.get_student_data(dados, identificador)
+    st.write(f"Nome: {data['nome']}")
 #     st.subheader("Informações")
 #     st.write("Primeiro, pediremos que você confirme se as informações abaixo estão corretas sobre você! Caso encontre algum erro, por favor chamar o Jovi para correção :)")
 # 
